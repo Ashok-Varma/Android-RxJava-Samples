@@ -1,3 +1,5 @@
+### Actual fork from https://github.com/kaushikgopal/RxJava-Android-Samples => https://github.com/Ashok-Varma/RxJava-Android-Samples. Since that is no longer active, i am maintaining this as separate repo wih latest patterns and examples.
+
 Learning RxJava for Android by example
 ==============
 
